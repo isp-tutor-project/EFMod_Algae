@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CCarbonMachineAssets/co2machine" itemID="5b8d7ba0-00000689" lastModified="1535998880">
+  <timeline>
+    <DOMTimeline name="co2machine">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CFishTankAssets/CCarbonMachineAssets/squareco2machine" selected="true">
+                  <matrix>
+                    <Matrix a="1.41404724121094" d="1.396484375" tx="24.6" ty="111.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CFishTankAssets/CCarbonMachineAssets/squareco2bubbles" selected="true">
+                  <matrix>
+                    <Matrix tx="23.55" ty="162.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

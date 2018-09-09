@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CThermometer Assets/squarethermometercolorroomtemp" itemID="5a1c520c-0000001b" lastModified="1511805452">
+  <timeline>
+    <DOMTimeline name="squarethermometercolorroomtemp">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#339999" alpha="0.498039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-135 -72S2|135 -72!135 -72|135 73!135 73|-135 73!-135 73|-135 -72"/>
+                    <Edge cubics="!-135 -72(;-135,-72 135,-72 135,-72q-135 -72 135 -72);"/>
+                    <Edge cubics="!135 -72(;135,-72 135,73 135,73q135 -72 135 73);"/>
+                    <Edge cubics="!135 73(;135,73 -135,73 -135,73q135 73 -135 73);"/>
+                    <Edge cubics="!-135 73(;-135,73 -135,-72 -135,-72q-135 73 -135 -72);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

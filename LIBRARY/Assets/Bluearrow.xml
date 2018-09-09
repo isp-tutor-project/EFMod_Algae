@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Bluearrow" itemID="5af59db1-000003d2" lastModified="1526046287">
+  <timeline>
+    <DOMTimeline name="Bluearrow">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0098FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="1.95">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!159 613|470 682!470 682|-314 1293!-314 1293|-694 425!-694 425|-384 479!-384 479|14 -1252!14 -1252|560 -1125!560 -1125|159 613"/>
+                    <Edge cubics="!14 -1252(;14,-1252 560,-1125 560,-1125q14 -1252 560 -1125);"/>
+                    <Edge cubics="!313 651(;313,651 -310,1252 -310,1252q313 651 -310 1252);"/>
+                    <Edge cubics="!-310 1252(;-310,1252 -559,436 -559,436q-310 1252 -559 436);"/>
+                    <Edge cubics="!313 651(;313,651 159,613 159,613q313 651 159 613);"/>
+                    <Edge cubics="!-384 479(;-384,479 -559,436 -559,436q-384 479 -559 436);"/>
+                    <Edge cubics="!-384 479(;-384,479 14,-1252 14,-1252q-384 479 14 -1252);"/>
+                    <Edge cubics="!560 -1125(;560,-1125 159,613 159,613q560 -1125 159 613);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

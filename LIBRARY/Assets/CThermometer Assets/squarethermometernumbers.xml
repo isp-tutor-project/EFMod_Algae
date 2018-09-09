@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CThermometer Assets/squarethermometernumbers" itemID="5a1c51e8-00000012" lastModified="1528809540">
+  <timeline>
+    <DOMTimeline name="squarethermometernumbers">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" fontRenderingMode="standard" left="-12" width="21.6" height="117.6" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.638656616210938" d="0.638656616210938" tx="0.8" ty="-37.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>F&#xD;105&#xD;100&#xD;95&#xD;90&#xD;85&#xD;80&#xD;75</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="12.95" size="10" bitmapSize="200" face="PTSans-Bold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

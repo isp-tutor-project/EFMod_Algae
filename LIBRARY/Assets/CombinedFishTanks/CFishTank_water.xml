@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CombinedFishTanks/CFishTank_water" itemID="5abd39fb-00000acd" lastModified="1527884532">
+  <timeline>
+    <DOMTimeline name="CFishTank_water">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CFishTankAssets/NewCombinedWater">
+                  <matrix>
+                    <Matrix a="1.44500732421875" d="1.3795166015625" tx="-0.75" ty="32.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CFishTankAssets/squarefishtank" centerPoint3DX="-0.05" centerPoint3DY="2.2">
+                  <matrix>
+                    <Matrix a="1.431640625" d="1.431640625" tx="-0.1" ty="2.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CFishTankAssets/squaretintedfishtanklid" centerPoint3DY="-102.2">
+                  <matrix>
+                    <Matrix a="1.431640625" d="1.431640625" ty="-102.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,154 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro1" itemID="5b955806-00000357" lastModified="1536519247">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQintro1">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Background_intro">
+                  <matrix>
+                    <Matrix tx="922.35" ty="678.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CFishTankAssets/CCarbonMachineAssets/squareco2machine" centerPoint3DX="640" centerPoint3DY="807.1">
+                  <matrix>
+                    <Matrix a="1.68022155761719" d="1.4100341796875" tx="640.05" ty="807.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CFishTankAssets/squarefishtank" centerPoint3DX="736.75" centerPoint3DY="832.75">
+                  <matrix>
+                    <Matrix a="1.6463623046875" d="1.6463623046875" tx="736.7" ty="832.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CScale">
+                  <matrix>
+                    <Matrix tx="1266.05" ty="957.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/calendarnew">
+                  <matrix>
+                    <Matrix a="1.99998474121094" d="1.99998474121094" tx="1188.4" ty="453.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Calendar Assets/calendarpin">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="1186.1" ty="327.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CombinedFishTanks/CFishtank_heater" centerPoint3DX="866.85" centerPoint3DY="756.15">
+                  <matrix>
+                    <Matrix a="1.6463623046875" d="1.6463623046875" tx="866.8" ty="756.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CFishTankAssets/NewCombinedWater">
+                  <matrix>
+                    <Matrix a="1.6343994140625" d="1.6654052734375" tx="736" ty="861.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/CThermometerHot" centerPoint3DX="787.75" centerPoint3DY="867.55">
+                  <matrix>
+                    <Matrix a="1.6165771484375" d="1.6165771484375" tx="787.75" ty="867.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CFishTankAssets/CCarbonMachineAssets/squareco2bubbles">
+                  <matrix>
+                    <Matrix a="1.14999389648438" d="1.14999389648438" tx="644.85" ty="837.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/calendarnew">
+                  <matrix>
+                    <Matrix a="1.91880798339844" d="1.85321044921875" tx="1192" ty="456.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/calendarpin">
+                  <matrix>
+                    <Matrix tx="1187" ty="341.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CScale copy">
+                  <matrix>
+                    <Matrix a="1.0711669921875" tx="1181" ty="918.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CFishTankAssets/squaretintedfishtanklid">
+                  <matrix>
+                    <Matrix a="1.71873474121094" d="1.71873474121094" tx="625.3" ty="711.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__Template">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="S_algaeexperimentworks" fontRenderingMode="standard" left="74.4" width="1376.8" height="90.55" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="197.2" ty="108.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Let's see how this experiment works.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="90.55" size="70" bitmapSize="1400" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

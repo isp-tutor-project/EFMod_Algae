@@ -1,0 +1,114 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmaterials" itemID="5b955827-0000035b" lastModified="1536519193" lastUniqueIdentifier="8">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQmaterials">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Stitle" fontRenderingMode="standard" width="1521.55" height="64.7" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="190.4" ty="99.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Here are all of the materials that may be necessary for this experiment:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/squarefishtankthermometer" name="Sicon">
+                  <matrix>
+                    <Matrix a="3.24261474609375" d="3.24261474609375" tx="1190.05" ty="782.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__radio" name="Svar1">
+                  <matrix>
+                    <Matrix tx="202.75" ty="262.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="145.8" y="166.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__calendar" name="Svar2">
+                  <matrix>
+                    <Matrix tx="559.1" ty="285.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.5" y="149.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__scale" name="Svar3">
+                  <matrix>
+                    <Matrix tx="939.65" ty="344.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="239.9" y="115.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__heater" name="Svar4">
+                  <matrix>
+                    <Matrix tx="1421.55" ty="233.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="142.3" y="127.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__co2" name="Svar8">
+                  <matrix>
+                    <Matrix tx="1365.75" ty="568"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="131.7" y="197.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__thermometer" name="Svar7">
+                  <matrix>
+                    <Matrix tx="971.45" ty="643.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="158.5" y="173.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__tank" name="Svar6">
+                  <matrix>
+                    <Matrix tx="522.35" ty="641.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="227.5" y="225"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__algae" name="Svar5">
+                  <matrix>
+                    <Matrix tx="195.2" ty="768.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="148.7" y="94.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SceneRegion" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__Template">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

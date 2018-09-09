@@ -1,0 +1,71 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Topic" itemID="5b955a3c-00000432" lastModified="1536514620">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="TC_TObject__Topic">
+      <layers>
+        <DOMLayer name="Thermometer" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/CThermometerRoomTemp" name="Svar1a" selected="true" centerPoint3DX="188.55" centerPoint3DY="143.6">
+                      <matrix>
+                        <Matrix a="1.41606140136719" d="1.416015625" tx="188.55" ty="143.5"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point y="0.15"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="algae" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMSymbolInstance libraryItemName="Assets/CAlgaeLarge" selected="true">
+                      <matrix>
+                        <Matrix tx="128.9" ty="95.9"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CFishTank_water" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMSymbolInstance libraryItemName="Assets/CombinedFishTanks/CFishTank_water" selected="true">
+                      <matrix>
+                        <Matrix a="0.989120483398438" d="0.989105224609375" tx="147.65" ty="129.55"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point y="0.05"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

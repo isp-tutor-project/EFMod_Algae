@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/material assets/TC_TMaterialIcon__calendar" itemID="5b956279-0000043e" lastModified="1536516729">
+  <timeline>
+    <DOMTimeline name="TC_TMaterialIcon__calendar">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/calendarnew" name="Sicon" selected="true">
+                  <matrix>
+                    <Matrix a="1.72940063476563" d="1.72940063476563" tx="183.4" ty="117.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="Stitle" selected="true" fontRenderingMode="standard" width="151.6" height="51.75" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.864700317382813" d="0.864700317382813" tx="109.55" ty="244.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Calendar</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="51.75" size="40" bitmapSize="800" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="Sarrow" selected="true">
+                  <matrix>
+                    <Matrix a="-0.188217163085938" b="0.75506591796875" c="0.75506591796875" d="0.188217163085938" tx="52.5" ty="265.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.15" y="1.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

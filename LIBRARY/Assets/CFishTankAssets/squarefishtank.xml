@@ -1,0 +1,89 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CFishTankAssets/squarefishtank" itemID="5abd36d1-00000805" lastModified="1511805636">
+  <timeline>
+    <DOMTimeline name="squarefishtank">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0384521484375" d="0.1202392578125" tx="79.45" ty="-8.5"/>
+                        </matrix>
+                        <GradientEntry ratio="0"/>
+                        <GradientEntry color="#888888" ratio="0"/>
+                        <GradientEntry color="#B0B0B0" ratio="0"/>
+                        <GradientEntry color="#DEDEDE" alpha="0.149019607843137" ratio="0"/>
+                        <GradientEntry color="#E9E9E9" alpha="0.298039215686275" ratio="0.890196078431372"/>
+                        <GradientEntry color="#FFFFFF" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.089111328125" d="0.089111328125" tx="-25.05" ty="17"/>
+                        </matrix>
+                        <GradientEntry ratio="0"/>
+                        <GradientEntry color="#888888" ratio="0"/>
+                        <GradientEntry color="#B0B0B0" ratio="0"/>
+                        <GradientEntry color="#DEDEDE" alpha="0.149019607843137" ratio="0"/>
+                        <GradientEntry color="#E9E9E9" alpha="0.298039215686275" ratio="0.890196078431372"/>
+                        <GradientEntry color="#FFFFFF" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!959 -1120S6|1962 -1800"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!959 932S7|959 1800"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!959 932S7|1962 932"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1962 932S6|959 1800"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!959 -1120S7|959 932"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1962 -1800S6|1962 932"/>
+                    <Edge strokeStyle="1" edges="!-801 -1800S4|-801 -1120"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!-1961 -1120S6|-801 -1120"/>
+                    <Edge strokeStyle="1" edges="!-1961 -1120S4|-801 -1800"/>
+                    <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="!-1961 1763S7|-801 920"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!-1961 1763S6|-1961 -1120"/>
+                    <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="!-801 -1120S7|-801 920"/>
+                    <Edge strokeStyle="1" edges="!-801 -1800S4|1962 -1800"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!959 1800S6|-1961 1763"/>
+                    <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="!-801 920S7|959 932"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!-801 -1120S6|959 -1120"/>
+                    <Edge cubics="!959 932(;959,932 959,1800 959,1800q959 932 959 1800);"/>
+                    <Edge cubics="!959 -1120(;959,-1120 959,932 959,932q959 -1120 959 932);"/>
+                    <Edge cubics="!-801 -1120(;-801,-1120 -801,920 -801,920q-801 -1120 -801 920);"/>
+                    <Edge cubics="!-1961 -1120(;-1961,-1120 -801,-1120 -801,-1120q-1961 -1120 -801 -1120);"/>
+                    <Edge cubics="!-801 920(;-801,920 959,932 959,932q-801 920 959 932);"/>
+                    <Edge cubics="!-801 -1120(;-801,-1120 959,-1120 959,-1120q-801 -1120 959 -1120);"/>
+                    <Edge cubics="!-1961 -1120(;-1961,-1120 -801,-1800 -801,-1800q-1961 -1120 -801 -1800);"/>
+                    <Edge cubics="!-801 -1800(;-801,-1800 -801,-1120 -801,-1120q-801 -1800 -801 -1120);"/>
+                    <Edge cubics="!959 932(;959,932 1962,932 1962,932q959 932 1962 932);"/>
+                    <Edge cubics="!1962 932(;1962,932 959,1800 959,1800q1962 932 959 1800);"/>
+                    <Edge cubics="!1962 -1800(;1962,-1800 1962,932 1962,932q1962 -1800 1962 932);"/>
+                    <Edge cubics="!959 -1120(;959,-1120 1962,-1800 1962,-1800q959 -1120 1962 -1800);"/>
+                    <Edge cubics="!-1961 1763(;-1961,1763 -801,920 -801,920q-1961 1763 -801 920);"/>
+                    <Edge cubics="!-1961 1763(;-1961,1763 -1961,-1120 -1961,-1120q-1961 1763 -1961 -1120);"/>
+                    <Edge cubics="!-801 -1800(;-801,-1800 1962,-1800 1962,-1800q-801 -1800 1962 -1800);"/>
+                    <Edge cubics="!959 1800(;959,1800 -1961,1763 -1961,1763q959 1800 -1961 1763);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

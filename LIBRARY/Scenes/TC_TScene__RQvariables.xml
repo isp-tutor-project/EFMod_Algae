@@ -1,0 +1,126 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQvariables" itemID="5b955837-0000035d" lastModified="1536519159">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQvariables">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" top="-74.35" left="18" width="1836.45" height="311.3" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="23.8" ty="337.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Below are some are some variables that might affect the amount of algae growth in water. You can test one of these variables in your experiment. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="77.65" size="60" bitmapSize="1200" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" left="-856.05" width="664.15" height="60.8" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="1545.95" ty="592.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Temperature of the Water</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="60.8" size="47" bitmapSize="940" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" left="-849.9" width="748.15" height="60.8" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="1531.8" ty="680.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Amount of Exposure to Music</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="60.8" size="47" bitmapSize="940" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" top="46.5" left="-813.3" width="996.2" height="60.8" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="1487.2" ty="728.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Amount of Carbon Dioxide in the Water</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="60.8" size="47" bitmapSize="940" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" left="-857.35" width="904.2" height="60.8" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="1531.25" ty="860.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Amount of Direct Sunlight Exposure</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="60.8" size="47" bitmapSize="940" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="Sarrow2">
+                  <matrix>
+                    <Matrix a="-0.21771240234375" b="-0.873214721679688" c="0.873214721679688" d="-0.21771240234375" tx="610.15" ty="713.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="Sarrow1">
+                  <matrix>
+                    <Matrix a="-0.21771240234375" b="-0.873214721679688" c="0.873214721679688" d="-0.21771240234375" tx="610.15" ty="621.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="Sarrow3">
+                  <matrix>
+                    <Matrix a="-0.21771240234375" b="-0.873214721679688" c="0.873214721679688" d="-0.21771240234375" tx="610.15" ty="803.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="Sarrow4">
+                  <matrix>
+                    <Matrix a="-0.21771240234375" b="-0.873214721679688" c="0.873214721679688" d="-0.21771240234375" tx="610.15" ty="895"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__Template">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

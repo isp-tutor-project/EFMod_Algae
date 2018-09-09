@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CFishTankAssets/squaretintedfishtanklid" itemID="5abd36d1-00000808" lastModified="1511805513">
+  <timeline>
+    <DOMTimeline name="squaretintedfishtanklid">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-288.95" ty="-192.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.8"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor alpha="0.6"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!4934 3449|7864 3449!7864 3449|6844 4254!6844 4254|3694 4254!3694 4254|4934 3449"/>
+                    <Edge cubics="!7864 3449(;7864,3449 6844,4254 6844,4254q7864 3449 6844 4254);"/>
+                    <Edge cubics="!3694 4254(;3694,4254 4934,3449 4934,3449q3694 4254 4934 3449);"/>
+                    <Edge cubics="!4934 3449(;4934,3449 7864,3449 7864,3449q4934 3449 7864 3449);"/>
+                    <Edge cubics="!6844 4254(;6844,4254 3694,4254 3694,4254q6844 4254 3694 4254);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

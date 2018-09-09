@@ -1,0 +1,187 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b955a36-00000431" lastModified="1536514614">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Vars">
+      <layers>
+        <DOMLayer name="Thermometer" color="#FF0000" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/CThermometerHot" name="Svar1b1">
+                  <matrix>
+                    <Matrix a="1.39042663574219" d="1.39041137695313" tx="462" ty="268.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Thermometer" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/CThermometerRoomTemp" name="Svar1a" centerPoint3DX="462.25" centerPoint3DY="269.75">
+                  <matrix>
+                    <Matrix a="1.41606140136719" d="1.416015625" tx="462.25" ty="269.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CFishTank_water" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CombinedFishTanks/CFishTank_water" selected="true">
+                  <matrix>
+                    <Matrix a="0.989120483398438" d="0.989105224609375" tx="421.35" ty="255.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CFishtank_heater" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CombinedFishTanks/CFishtank_heater" name="Svar1b2" centerPoint3DX="535.5" centerPoint3DY="187.7">
+                  <matrix>
+                    <Matrix a="1.41606140136719" d="1.416015625" tx="535.5" ty="187.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="music" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CRadio Assets/CRadio" name="Svar2a">
+                  <matrix>
+                    <Matrix a="0.989120483398438" d="0.989105224609375" tx="176.7" ty="287.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="no music" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CRadio Assets/CRadionomusic" name="Svar2b">
+                  <matrix>
+                    <Matrix a="0.989120483398438" d="0.989105224609375" tx="176.7" ty="287.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="co2" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CCarbonMachineAssets/co2machine" name="Svar3a">
+                  <matrix>
+                    <Matrix a="0.989120483398438" d="0.989105224609375" tx="298.05" ty="137.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.65" y="111.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="noco2" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CCarbonMachineAssets/co2machine" name="Svar3b">
+                  <matrix>
+                    <Matrix a="0.989120483398438" d="0.989105224609375" tx="298.05" ty="137.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.65" y="111.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Sun" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CBackgroundassets/CBackgroundSun" name="Svar4a">
+                  <matrix>
+                    <Matrix a="1.04638671875" d="1.04638671875" tx="288.8" ty="210.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="No Sun" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Shade" name="Svar4b">
+                  <matrix>
+                    <Matrix a="0.582901000976563" d="0.584457397460938" tx="192.2" ty="103.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Table" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CBackgroundassets/CTable">
+                  <matrix>
+                    <Matrix a="1.08865356445313" d="1.088623046875" ty="306.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="275.15" y="53.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
