@@ -1,7 +1,14 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CThermometer Assets/squarefishtankthermometer" itemID="5a1c521f-0000001f" lastModified="1511805471">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CThermometer Assets/squarefishtankthermometer" itemID="5a1c521f-0000001f" lastModified="1536604701">
   <timeline>
     <DOMTimeline name="squarefishtankthermometer">
       <layers>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
@@ -32,10 +39,10 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="!-121 -789S7[-121 -787 -124 -785!-124 -785[-126 -783 -130 -783!-130 -783[-133 -783 -135 -785!-135 -785[-138 -787 -138 -789!-138 -789[-138 -793 -135 -794!-135 -794[-133 -797 -130 -797!-130 -797[-126 -797 -124 -794!-124 -794[-121 -793 -121
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="!-121 -789[-121 -787 -124 -785!-124 -785[-126 -783 -130 -783!-130 -783[-133 -783 -135 -785!-135 -785[-138 -787 -138 -789!-138 -789[-138 -793 -135 -794!-135 -794[-133 -797 -130 -797!-130 -797[-126 -797 -124 -794!-124 -794[-121 -793 -121
  -789"/>
                     <Edge fillStyle1="1" strokeStyle="1" edges="
-!-206 -838S6|207 -838!207 -838|207 838!207 838|-206 838!-206 838|-206 -838"/>
+!-206 -838|207 -838!207 -838|207 838!207 838|-206 838!-206 838|-206 -838"/>
                   </edges>
                 </DOMShape>
               </elements>

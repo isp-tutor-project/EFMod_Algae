@@ -11,7 +11,7 @@
               <elements>
                 <DOMGroup>
                   <members>
-                    <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/CThermometerRoomTemp" name="Svar1a" selected="true" centerPoint3DX="188.55" centerPoint3DY="143.6">
+                    <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/CThermometerRoomTemp" name="Svar1a" centerPoint3DX="188.55" centerPoint3DY="143.6">
                       <matrix>
                         <Matrix a="1.41606140136719" d="1.416015625" tx="188.55" ty="143.5"/>
                       </matrix>
@@ -49,7 +49,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMGroup>
+                <DOMGroup selected="true">
                   <members>
                     <DOMSymbolInstance libraryItemName="Assets/CombinedFishTanks/CFishTank_water" selected="true">
                       <matrix>

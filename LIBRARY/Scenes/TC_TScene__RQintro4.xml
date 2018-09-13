@@ -7,9 +7,6 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-11.95"/>
-                  </matrix>
                   <members>
                     <DOMSymbolInstance libraryItemName="Assets/Background_intro" centerPoint3DX="922.35" centerPoint3DY="676.85">
                       <matrix>

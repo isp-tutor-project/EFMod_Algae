@@ -1,20 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/material assets/TC_TMaterialIcon__thermometer" itemID="5b9563d1-0000045d" lastModified="1536517073" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/material assets/TC_TMaterialIcon__thermometer" itemID="5b9563d1-0000045d" lastModified="1536595698" lastUniqueIdentifier="2">
   <timeline>
     <DOMTimeline name="TC_TMaterialIcon__thermometer">
       <layers>
-        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+        <DOMLayer name="Layer_1" color="#00FFFF">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/squarethermometernumbers" selected="true">
-                  <matrix>
-                    <Matrix a="3.24261474609375" d="3.24261474609375" tx="225.1" ty="126"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point y="0.05"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMDynamicText name="Stitle" selected="true" fontRenderingMode="standard" left="-44.75" width="233.5" height="51.75" autoExpand="true" isSelectable="false" lineType="multiline">
+                <DOMDynamicText name="Stitle" fontRenderingMode="standard" left="-44.75" width="233.5" height="51.75" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
                     <Matrix a="0.864700317382813" d="0.864700317382813" tx="153.05" ty="287.75"/>
                   </matrix>
@@ -27,12 +19,28 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="Sarrow" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="Sarrow">
                   <matrix>
                     <Matrix a="-0.188217163085938" b="0.75506591796875" c="0.75506591796875" d="0.188217163085938" tx="52.5" ty="312.8"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-3.15" y="1.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/squarefishtankthermometer" name="Sicon">
+                  <matrix>
+                    <Matrix a="3.24261474609375" d="3.24261474609375" tx="217.15" ty="135.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

@@ -22,7 +22,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/squarethermometernumbers" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/squarethermometernumbers">
                   <matrix>
                     <Matrix tx="1.15" ty="-3.1"/>
                   </matrix>
