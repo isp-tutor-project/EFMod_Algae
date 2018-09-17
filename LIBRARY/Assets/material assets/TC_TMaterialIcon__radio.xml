@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/material assets/TC_TMaterialIcon__radio" itemID="5b956211-00000437" lastModified="1536516625">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/material assets/TC_TMaterialIcon__radio" itemID="5b956211-00000437" lastModified="1537045751">
   <timeline>
     <DOMTimeline name="TC_TMaterialIcon__radio">
       <layers>
@@ -27,14 +27,6 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="Sarrow">
-                  <matrix>
-                    <Matrix a="-0.188217163085938" b="0.75506591796875" c="0.75506591796875" d="0.188217163085938" tx="52.5" ty="300.35"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="-3.2" y="1.25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>

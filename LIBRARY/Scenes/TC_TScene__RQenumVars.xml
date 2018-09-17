@@ -1,0 +1,93 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQenumVars" itemID="5b9e93d2-0000041d" linkageExportForAS="true" linkageClassName="TC_TScene__RQenumVars" lastModified="1537119503">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQenumVars">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="Stitle">
+                  <matrix>
+                    <Matrix a="14.9179992675781" d="2.1929931640625" tx="214.1" ty="140.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.85" y="50.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <matrix>
+                    <Matrix tx="-22.1" ty="-49.7"/>
+                  </matrix>
+                  <members>
+                    <DOMGroup selected="true">
+                      <matrix>
+                        <Matrix tx="-22.1" ty="-49.7"/>
+                      </matrix>
+                      <members>
+                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars" name="Sicon1" selected="true">
+                          <matrix>
+                            <Matrix tx="250.25" ty="447.15"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point x="299.7" y="211.35"/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                        <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="SsubTitle1" selected="true">
+                          <matrix>
+                            <Matrix a="5.49400329589844" d="1.27799987792969" tx="275.55" ty="908.5"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point x="50.3" y="50"/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <matrix>
+                        <Matrix tx="-22.1" ty="-49.7"/>
+                      </matrix>
+                      <members>
+                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars" name="Sicon2" selected="true">
+                          <matrix>
+                            <Matrix tx="1069.75" ty="447.15"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point x="299.7" y="211.35"/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                        <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Text1" name="SsubTitle2" selected="true">
+                          <matrix>
+                            <Matrix a="5.49400329589844" d="1.27799987792969" tx="1095.05" ty="908.5"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point x="50.3" y="50"/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" locked="true" outline="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

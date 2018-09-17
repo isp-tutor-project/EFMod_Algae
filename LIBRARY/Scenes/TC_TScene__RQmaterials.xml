@@ -1,11 +1,234 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmaterials" itemID="5b955827-0000035b" lastModified="1536595856" lastUniqueIdentifier="8">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmaterials" itemID="5b955827-0000035b" linkageExportForAS="true" linkageClassName="TC_TScene__RQmaterials" lastModified="1537046557" lastUniqueIdentifier="8">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
   <timeline>
     <DOMTimeline name="TC_TScene__RQmaterials">
       <layers>
-        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar5" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__algae" name="Svar5">
+                  <matrix>
+                    <Matrix tx="195.2" ty="768.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="148.7" y="94.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar6" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__tank" name="Svar6">
+                  <matrix>
+                    <Matrix tx="522.35" ty="641.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="227.5" y="225"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar7" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__thermometer" name="Svar7">
+                  <matrix>
+                    <Matrix tx="971.45" ty="673.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="158.5" y="173.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar8" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__co2" name="Svar8">
+                  <matrix>
+                    <Matrix tx="1365.75" ty="568"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="131.7" y="197.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Arrow" name="Sarrow1">
+                  <matrix>
+                    <Matrix a="-0.258819580078125" b="-0.965911865234375" c="0.965911865234375" d="-0.258819580078125" tx="135.65" ty="475.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="1.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#333333" distance="15" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Arrow" name="Sarrow2">
+                  <matrix>
+                    <Matrix a="-0.258819580078125" b="-0.965911865234375" c="0.965911865234375" d="-0.258819580078125" tx="577.4" ty="558.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="1.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#333333" distance="15" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Arrow" name="Sarrow3">
+                  <matrix>
+                    <Matrix a="-0.258819580078125" b="-0.965911865234375" c="0.965911865234375" d="-0.258819580078125" tx="938.75" ty="510.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="1.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#333333" distance="15" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Arrow" name="Sarrow4">
+                  <matrix>
+                    <Matrix a="-0.258819580078125" b="-0.965911865234375" c="0.965911865234375" d="-0.258819580078125" tx="1450.75" ty="428.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="1.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#333333" distance="15" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Arrow" name="Sarrow5">
+                  <matrix>
+                    <Matrix a="-0.258819580078125" b="-0.965911865234375" c="0.965911865234375" d="-0.258819580078125" tx="224.9" ty="827.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="1.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#333333" distance="15" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Arrow" name="Sarrow6">
+                  <matrix>
+                    <Matrix a="-0.258819580078125" b="-0.965911865234375" c="0.965911865234375" d="-0.258819580078125" tx="539.45" ty="1029.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="1.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#333333" distance="15" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Arrow" name="Sarrow7">
+                  <matrix>
+                    <Matrix a="-0.258819580078125" b="-0.965911865234375" c="0.965911865234375" d="-0.258819580078125" tx="1052.9" ty="913.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="1.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#333333" distance="15" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Arrow" name="Sarrow8">
+                  <matrix>
+                    <Matrix a="-0.258819580078125" b="-0.965911865234375" c="0.965911865234375" d="-0.258819580078125" tx="1398.15" ty="799.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="1.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="15" blurY="15" color="#333333" distance="15" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar4" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__heater" name="Svar4">
+                  <matrix>
+                    <Matrix tx="1421.55" ty="233.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="142.3" y="127.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar3" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__scale" name="Svar3">
+                  <matrix>
+                    <Matrix tx="913.8" ty="312.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="239.9" y="115.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar2" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__calendar" name="Svar2">
+                  <matrix>
+                    <Matrix tx="559.1" ty="285.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.5" y="149.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar1" color="#00FFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__radio" name="Svar1">
+                  <matrix>
+                    <Matrix tx="202.75" ty="262.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="145.8" y="166.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Stitle" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -22,79 +245,15 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__radio" name="Svar1">
-                  <matrix>
-                    <Matrix tx="202.75" ty="262.75"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="145.8" y="166.85"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__calendar" name="Svar2">
-                  <matrix>
-                    <Matrix tx="559.1" ty="285.9"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="150.5" y="149.6"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__scale" name="Svar3">
-                  <matrix>
-                    <Matrix tx="939.65" ty="344.8"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="239.9" y="115.45"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__heater" name="Svar4">
-                  <matrix>
-                    <Matrix tx="1421.55" ty="233.95"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="142.3" y="127.95"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__co2" name="Svar8">
-                  <matrix>
-                    <Matrix tx="1365.75" ty="568"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="131.7" y="197.8"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__thermometer" name="Svar7">
-                  <matrix>
-                    <Matrix tx="971.45" ty="673.3"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="158.5" y="173.5"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__tank" name="Svar6">
-                  <matrix>
-                    <Matrix tx="522.35" ty="641.8"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="227.5" y="225"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/material assets/TC_TMaterialIcon__algae" name="Svar5">
-                  <matrix>
-                    <Matrix tx="195.2" ty="768.75"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="148.7" y="94.45"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="SceneRegion" color="#9933CC" locked="true" autoNamed="false">
+        <DOMLayer name="SceneRegion" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__Template" selected="true">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true">
                   <transformationPoint>
                     <Point x="960" y="600"/>
                   </transformationPoint>

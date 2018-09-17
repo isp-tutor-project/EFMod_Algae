@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/material assets/TC_TMaterialIcon__algae" itemID="5b9563eb-00000473" lastModified="1536517099">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/material assets/TC_TMaterialIcon__algae" itemID="5b9563eb-00000473" lastModified="1537045773">
   <timeline>
     <DOMTimeline name="TC_TMaterialIcon__algae">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CAlgaeLarge" name="Sicon" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CAlgaeLarge" name="Sicon">
                   <matrix>
                     <Matrix a="1.67047119140625" b="0.44757080078125" c="-0.44757080078125" d="1.67047119140625" tx="200.1" ty="43"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point x="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText name="Stitle" selected="true" fontRenderingMode="standard" width="160.15" height="105.5" autoExpand="true" isSelectable="false" lineType="multiline">
+                <DOMDynamicText name="Stitle" fontRenderingMode="standard" width="160.15" height="105.5" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
                     <Matrix a="0.864700317382813" d="0.864700317382813" tx="127.45" ty="101.95"/>
                   </matrix>
@@ -27,14 +27,6 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="Sarrow" selected="true">
-                  <matrix>
-                    <Matrix a="-0.188217163085938" b="0.75506591796875" c="0.75506591796875" d="0.188217163085938" tx="52.5" ty="144.6"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="-3.15" y="1.25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>

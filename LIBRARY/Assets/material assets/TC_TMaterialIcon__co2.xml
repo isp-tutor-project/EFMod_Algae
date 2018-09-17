@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/material assets/TC_TMaterialIcon__co2" itemID="5b9563c3-00000454" lastModified="1536517059" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/material assets/TC_TMaterialIcon__co2" itemID="5b9563c3-00000454" lastModified="1537045791" lastUniqueIdentifier="2">
   <timeline>
     <DOMTimeline name="TC_TMaterialIcon__co2">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CFishTankAssets/CCarbonMachineAssets/squareco2machine" name="Sicon" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CFishTankAssets/CCarbonMachineAssets/squareco2machine" name="Sicon">
                   <matrix>
                     <Matrix a="2.48599243164063" d="2.48599243164063" tx="130.6" ty="197.75"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point x="-0.05" y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText name="Stitle" selected="true" fontRenderingMode="standard" left="-9.4" width="144" height="159.25" autoExpand="true" isSelectable="false" lineType="multiline">
+                <DOMDynamicText name="Stitle" fontRenderingMode="standard" left="-9.4" width="144" height="159.25" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
                     <Matrix a="0.864700317382813" d="0.864700317382813" tx="146.3" ty="114.75"/>
                   </matrix>
@@ -27,14 +27,6 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="Sarrow" selected="true">
-                  <matrix>
-                    <Matrix a="-0.188217163085938" b="0.75506591796875" c="0.75506591796875" d="0.188217163085938" tx="52.5" ty="187.65"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="-3.15" y="1.25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
