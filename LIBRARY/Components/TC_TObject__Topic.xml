@@ -11,7 +11,7 @@
               <elements>
                 <DOMGroup>
                   <members>
-                    <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/CThermometerRoomTemp" name="Svar1a" centerPoint3DX="188.55" centerPoint3DY="143.6">
+                    <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/TC_TObject__CThermometerRoomTemp" name="Svar1a" centerPoint3DX="188.55" centerPoint3DY="143.6">
                       <matrix>
                         <Matrix a="1.41606140136719" d="1.416015625" tx="188.55" ty="143.5"/>
                       </matrix>

@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Shade" itemID="5b89a648-0000029c" lastModified="1535747656">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TC_TObject__Shade" itemID="5ba16755-00001cb8" lastModified="1537304405">
   <timeline>
-    <DOMTimeline name="Shade">
+    <DOMTimeline name="TC_TObject__Shade">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>

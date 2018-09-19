@@ -89,7 +89,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/CThermometerHot" centerPoint3DX="787.75" centerPoint3DY="867.55">
+                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/TC_TObject__CThermometerHot" centerPoint3DX="787.75" centerPoint3DY="867.55">
                   <matrix>
                     <Matrix a="1.6165771484375" d="1.6165771484375" tx="787.75" ty="867.45"/>
                   </matrix>

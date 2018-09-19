@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmovie" itemID="5b956a0d-000004a4" linkageExportForAS="true" linkageClassName="TC_TScene__RQmovie" lastModified="1537124834">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmovie" itemID="5b956a0d-000004a4" linkageExportForAS="true" linkageClassName="TC_TScene__RQmovie" lastModified="1537125351">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -9,7 +9,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/NavPanel Components/TC_TButton__PlayButton" name="Splay" selected="true" symbolType="button">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/NavPanel Components/TC_TButton__PlayButton" name="Splay" symbolType="button">
                   <matrix>
                     <Matrix a="2.42417907714844" d="2.42417907714844" tx="978.6" ty="600"/>
                   </matrix>

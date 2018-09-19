@@ -27,7 +27,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/CThermometerRoomTemp" name="Sicon">
+                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/TC_TObject__CThermometerRoomTemp" name="Sicon">
                   <matrix>
                     <Matrix a="3.24261474609375" d="3.24261474609375" tx="217.15" ty="135.85"/>
                   </matrix>
