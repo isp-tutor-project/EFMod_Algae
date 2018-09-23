@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 126" majorVersion="18" buildNumber="126" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="28FA7C3B9363D635B16ED4FEE4764CA0">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="28FA7C3B9363D635B16ED4FEE4764CA0">
      <folders>
           <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
           <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
@@ -164,10 +164,10 @@
           <Include href="Exports/TL_Algae__Vars.xml" loadImmediate="false" itemID="5b955a5e-00000434" lastModified="1536514654"/>
           <Include href="Scene Assets/TC_TScene__SignIn/IconSignIn.xml" loadImmediate="false" itemID="5ae36986-00000383" lastModified="1524853134"/>
           <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e93d2-0000041d" lastModified="1537303722"/>
-          <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5b955806-00000357" lastModified="1537118681"/>
-          <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5b955810-00000358" lastModified="1537118688"/>
-          <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5b955819-00000359" lastModified="1537119208"/>
-          <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5b95581f-0000035a" lastModified="1537118678"/>
+          <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5b955806-00000357" lastModified="1537720852"/>
+          <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5b955810-00000358" lastModified="1537720854"/>
+          <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5b955819-00000359" lastModified="1537720857"/>
+          <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5b95581f-0000035a" lastModified="1537720831"/>
           <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5b955827-0000035b" lastModified="1537046557"/>
           <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b956a0d-000004a4" lastModified="1537125351"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b955837-0000035d" lastModified="1536939894"/>
