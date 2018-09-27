@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Callout4b" itemID="5baa8cea-000004cf" lastModified="1537903850">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Callout4b">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Callout" selected="true" centerPoint3DX="32.65" centerPoint3DY="19.65">
+                  <matrix>
+                    <Matrix a="-1" tx="65.3" ty="4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.65" y="15.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText selected="true" fontRenderingMode="standard" width="100" height="40.8" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="67.25" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Direct sunlight:&#xD;None</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="19.4" size="15" bitmapSize="300" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

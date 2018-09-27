@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Expt4b" itemID="5baa8d18-000004e1" lastModified="1537903896">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Expt4b">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CBackgroundassets/CTable" selected="true" centerPoint3DX="300" centerPoint3DY="364.15">
+                  <matrix>
+                    <Matrix a="1.08865356445313" d="1.088623046875" ty="306.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="275.15" y="53.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CBackgroundassets/TC_TObject__CBackgroundSun" name="Svar4a" selected="true" centerPoint3DX="139.75" centerPoint3DY="200.75">
+                  <matrix>
+                    <Matrix a="1.04638671875" d="1.04638671875" tx="288.8" ty="210.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Highlight" name="Shighlight" selected="true" centerPoint3DX="399.6" centerPoint3DY="37.45">
+                  <matrix>
+                    <Matrix tx="336.1" ty="12.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__Shade" name="Svar4b" selected="true">
+                  <matrix>
+                    <Matrix a="0.582901000976563" d="0.584457397460938" tx="190.7" ty="100.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Callout4b" name="ScallOut" selected="true">
+                  <matrix>
+                    <Matrix tx="283.4" ty="12.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="83.85" y="22.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

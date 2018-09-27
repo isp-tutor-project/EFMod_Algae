@@ -1,0 +1,74 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Expt" itemID="5baa96cd-00000696" lastModified="1537906381">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Expt">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Expt4b" selected="true">
+                  <transformationPoint>
+                    <Point x="299.7" y="211.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Expt4a" selected="true">
+                  <transformationPoint>
+                    <Point x="299.7" y="211.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Expt3a" selected="true">
+                  <matrix>
+                    <Matrix tx="303.3" ty="124"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="170.55" y="142.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Expt3b" selected="true">
+                  <matrix>
+                    <Matrix tx="302.7" ty="123.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="170.35" y="143.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Expt2a" selected="true">
+                  <matrix>
+                    <Matrix tx="51.2" ty="215.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.6" y="81.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Expt2b" selected="true">
+                  <matrix>
+                    <Matrix tx="10.05" ty="387.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="92.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Expt1b" selected="true">
+                  <matrix>
+                    <Matrix tx="474.9" ty="167.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.65" y="79.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Expt1a" selected="true">
+                  <matrix>
+                    <Matrix tx="474.35" ty="207.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.15" y="59.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
