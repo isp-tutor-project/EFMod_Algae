@@ -1,19 +1,62 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CThermometer Assets/TC_TObject__CThermometerHot" itemID="5ba16712-00001cb2" lastModified="1537304338">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CThermometer Assets/TC_TObject__CThermometerHot" itemID="5ba16712-00001cb2" lastModified="1539117057">
   <timeline>
     <DOMTimeline name="TC_TObject__CThermometerHot">
       <layers>
-        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+        <DOMLayer name="TC_TObject__HeaterWater" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/squarefishtankthermometer" centerPoint3DY="0.1">
+                <DOMSymbolInstance libraryItemName="TC_TObject__HeaterWater">
                   <matrix>
-                    <Matrix ty="0.1"/>
+                    <Matrix a="0.80194091796875" d="0.762008666992188" tx="40.1" ty="-56.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.4" y="35.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar1b2" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CombinedFishTanks/CFishtank_heater" name="Svar1b2" centerPoint3DX="52.55" centerPoint3DY="-51">
+                  <matrix>
+                    <Matrix a="1.0072021484375" d="1.00717163085938" tx="52.6" ty="-50.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="squarethermometernumbers" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/squarethermometernumbers" centerPoint3DX="2.15" centerPoint3DY="-3.1">
+                  <matrix>
+                    <Matrix tx="2.15" ty="-3.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="squarethermometercolorhot" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
                 <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/squarethermometercolorhot" centerPoint3DX="0.75" centerPoint3DY="-26.95">
                   <matrix>
                     <Matrix tx="0.75" ty="-26.95"/>
@@ -22,9 +65,17 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/squarethermometernumbers" centerPoint3DX="2.15" centerPoint3DY="-3.1">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="squarefishtankthermometer" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/squarefishtankthermometer" centerPoint3DY="0.1">
                   <matrix>
-                    <Matrix tx="2.15" ty="-3.1"/>
+                    <Matrix ty="0.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>

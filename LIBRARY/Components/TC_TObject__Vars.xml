@@ -1,24 +1,24 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b955a36-00000431" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537902609">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b955a36-00000431" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1539117262">
   <timeline>
     <DOMTimeline name="TC_TObject__Vars">
       <layers>
-        <DOMLayer name="Thermometer" color="#FF0000" locked="true" autoNamed="false" visible="false">
+        <DOMLayer name="Layer_13" color="#009999" locked="true" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/TC_TObject__CThermometerHot" name="Svar1b">
+                <DOMSymbolInstance libraryItemName="Assets/CFishTankAssets/squaretintedfishtanklid" centerPoint3DX="419" centerPoint3DY="150.5">
                   <matrix>
-                    <Matrix a="1.39042663574219" d="1.39041137695313" tx="462" ty="268.55"/>
+                    <Matrix a="1.431640625" d="1.431640625" tx="419" ty="150.5"/>
                   </matrix>
                   <transformationPoint>
-                    <Point y="0.2"/>
+                    <Point x="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Thermometer" color="#9933CC" locked="true" autoNamed="false" visible="false">
+        <DOMLayer name="Svar1a" color="#FF800A" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -34,7 +34,23 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="CFishTank_water" color="#9933CC" locked="true" autoNamed="false" visible="false">
+        <DOMLayer name="Svar1b" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CThermometer Assets/TC_TObject__CThermometerHot" name="Svar1b">
+                  <matrix>
+                    <Matrix a="1.39042663574219" d="1.39041137695313" tx="462" ty="268.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CFishTank_water" color="#FF4FFF" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -50,23 +66,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="CFishtank_heater" color="#669900" locked="true" autoNamed="false" visible="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CombinedFishTanks/CFishtank_heater" name="Svar1b2" centerPoint3DX="535.5" centerPoint3DY="187.7">
-                  <matrix>
-                    <Matrix a="1.41606140136719" d="1.416015625" tx="535.5" ty="187.65"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.05" y="0.05"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="music" color="#FF4F4F" locked="true" current="true" isSelected="true" autoNamed="false" visible="false">
+        <DOMLayer name="Svar2a" color="#FF0000" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -82,7 +82,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="no music" color="#9933CC" locked="true" autoNamed="false" visible="false">
+        <DOMLayer name="Svar2b" color="#669900" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -98,7 +98,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="co2" color="#9933CC" locked="true" autoNamed="false" visible="false">
+        <DOMLayer name="Svar3a" color="#FF4F4F" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -114,7 +114,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="noco2" color="#FF800A" locked="true" autoNamed="false" visible="false">
+        <DOMLayer name="Svar3b" color="#00FFFF" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -133,7 +133,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Sun" color="#FF4FFF" locked="true" autoNamed="false" visible="false">
+        <DOMLayer name="Svar4a" color="#9933CC" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -149,7 +149,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="No Sun" color="#009999" locked="true" autoNamed="false" visible="false">
+        <DOMLayer name="Svar4b" color="#FF800A" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -165,7 +165,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Table" color="#FF800A" locked="true" autoNamed="false" visible="false">
+        <DOMLayer name="CTable" color="#FF4FFF" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

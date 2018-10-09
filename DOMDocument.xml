@@ -11,7 +11,7 @@
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets/icons" itemID="532c6375-000002d1"/>
           <DOMFolderItem name="_Tutor Global Scenes" itemID="5b8db2bd-00000610" isExpanded="true"/>
-          <DOMFolderItem name="Assets" itemID="5b8db162-00000599"/>
+          <DOMFolderItem name="Assets" itemID="5b8db162-00000599" isExpanded="true"/>
           <DOMFolderItem name="Assets/Calendar Assets" itemID="5a217f61-000004ef"/>
           <DOMFolderItem name="Assets/CBackgroundassets" itemID="5a216052-00000079"/>
           <DOMFolderItem name="Assets/CCarbonMachineAssets" itemID="5a216284-00000093"/>
@@ -19,7 +19,7 @@
           <DOMFolderItem name="Assets/CFishTankAssets/CCarbonMachineAssets" itemID="5abd36db-0000081f"/>
           <DOMFolderItem name="Assets/CFishTankAssets/Waterassets" itemID="5abd37b1-00000962"/>
           <DOMFolderItem name="Assets/CombinedFishTanks" itemID="5abd4276-00000db9"/>
-          <DOMFolderItem name="Assets/CRadio Assets" itemID="5a215e9e-00000052"/>
+          <DOMFolderItem name="Assets/CRadio Assets" itemID="5a215e9e-00000052" isExpanded="true"/>
           <DOMFolderItem name="Assets/CThermometer Assets" itemID="5a21630d-0000009c"/>
           <DOMFolderItem name="Assets/material assets" itemID="5b956561-0000047d" isExpanded="true"/>
           <DOMFolderItem name="Assets/Textassets" itemID="5abd3b87-00000b2b"/>
@@ -127,7 +127,7 @@
           <Include href="Assets/CHand.xml" loadImmediate="false" itemID="5a32e6fc-00000074" lastModified="1513285372"/>
           <Include href="Assets/Chandholdingalgae.xml" loadImmediate="false" itemID="5a32e6f9-00000073" lastModified="1513285369"/>
           <Include href="Assets/CombinedFishTanks/CFishtank_heater.xml" loadImmediate="false" itemID="5abd3a17-00000ad8" lastModified="1522350615"/>
-          <Include href="Assets/CombinedFishTanks/CFishTank_water.xml" loadImmediate="false" itemID="5abd39fb-00000acd" lastModified="1527884532"/>
+          <Include href="Assets/CombinedFishTanks/CFishTank_water.xml" loadImmediate="false" itemID="5abd39fb-00000acd" lastModified="1539117188"/>
           <Include href="Assets/CRadio.xml" loadImmediate="false" itemID="5a215ed2-00000053" lastModified="1528810391"/>
           <Include href="Assets/CRadio Assets/TC_TObject__CRadio.xml" loadImmediate="false" itemID="5ba16726-00001cb4" lastModified="1537304358"/>
           <Include href="Assets/CRadio Assets/TC_TObject__CRadionomusic.xml" loadImmediate="false" itemID="5ba1672c-00001cb5" lastModified="1537304364"/>
@@ -137,7 +137,7 @@
           <Include href="Assets/CThermometer Assets/squarethermometercolorhot.xml" loadImmediate="false" itemID="5a1c51fa-00000017" lastModified="1511805434"/>
           <Include href="Assets/CThermometer Assets/squarethermometercolorroomtemp.xml" loadImmediate="false" itemID="5a1c520c-0000001b" lastModified="1511805452"/>
           <Include href="Assets/CThermometer Assets/squarethermometernumbers.xml" loadImmediate="false" itemID="5a1c51e8-00000012" lastModified="1528809540"/>
-          <Include href="Assets/CThermometer Assets/TC_TObject__CThermometerHot.xml" loadImmediate="false" itemID="5ba16712-00001cb2" lastModified="1537304338"/>
+          <Include href="Assets/CThermometer Assets/TC_TObject__CThermometerHot.xml" loadImmediate="false" itemID="5ba16712-00001cb2" lastModified="1539117057"/>
           <Include href="Assets/CThermometer Assets/TC_TObject__CThermometerRoomTemp.xml" loadImmediate="false" itemID="5ba1671a-00001cb3" lastModified="1537304346"/>
           <Include href="Assets/CThermometerHot.xml" loadImmediate="false" itemID="5a2164c1-000000a8" lastModified="1512137921"/>
           <Include href="Assets/grams.xml" loadImmediate="false" itemID="5b11ac16-000004b9" lastModified="1528810470"/>
@@ -155,8 +155,8 @@
           <Include href="Components/Expt Assets/TC_TObject__CallOutHighlight.xml" loadImmediate="false" itemID="5bba22b3-00001c05" lastModified="1538925235"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b955a31-00000430" lastModified="1538926492"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b955a3c-00000432" lastModified="1537036403"/>
-          <Include href="Components/TC_TObject__Vars.xml" itemID="5b955a36-00000431" lastModified="1537902609"/>
-          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb9080-00002ebb" lastModified="1539018883"/>
+          <Include href="Components/TC_TObject__Vars.xml" itemID="5b955a36-00000431" lastModified="1539117262"/>
+          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb9080-00002ebb" lastModified="1539117810"/>
           <Include href="Exports/TL_Algae__Movie.xml" loadImmediate="false" itemID="5b955a58-00000433" lastModified="1536514648"/>
           <Include href="Exports/TL_Algae__RQintro1.xml" loadImmediate="false" itemID="5b9569ac-00000484" lastModified="1536518607"/>
           <Include href="Exports/TL_Algae__RQintro2.xml" loadImmediate="false" itemID="5b9569d9-0000048a" lastModified="1536518617"/>
@@ -178,7 +178,7 @@
           <Include href="Expt Assets/TC_TObject__CalloutLong.xml" loadImmediate="false" itemID="5ba81901-0000227e" lastModified="1538925569"/>
           <Include href="Expt Assets/TC_TObject__CalloutShort.xml" loadImmediate="false" itemID="5bba23ba-00001c14" lastModified="1538925556"/>
           <Include href="Expt Assets/TC_TObject__Expt1a.xml" loadImmediate="false" itemID="5baa911e-00000555" lastModified="1537977282"/>
-          <Include href="Expt Assets/TC_TObject__Expt1b.xml" loadImmediate="false" itemID="5baa91b1-00000574" lastModified="1537906269"/>
+          <Include href="Expt Assets/TC_TObject__Expt1b.xml" loadImmediate="false" itemID="5baa91b1-00000574" lastModified="1539117446"/>
           <Include href="Expt Assets/TC_TObject__Expt2a.xml" loadImmediate="false" itemID="5baa94b7-000005e3" lastModified="1538925687"/>
           <Include href="Expt Assets/TC_TObject__Expt2b.xml" loadImmediate="false" itemID="5baa9535-00000601" lastModified="1537905973"/>
           <Include href="Expt Assets/TC_TObject__Expt3a.xml" loadImmediate="false" itemID="5baa8f43-000004f8" lastModified="1537904451"/>
@@ -197,6 +197,7 @@
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b955837-0000035d" lastModified="1536939894"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536939917"/>
           <Include href="TC_TObject__ArrowHead.xml" loadImmediate="false" itemID="5bb9152b-00001b54" lastModified="1538856261"/>
+          <Include href="TC_TObject__HeaterWater.xml" loadImmediate="false" itemID="5bbd0fd0-000043d5" lastModified="1539117008"/>
           <Include href="TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba437d-00002303" lastModified="1538933629"/>
      </symbols>
      <timelines>

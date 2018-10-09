@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Expt1b" itemID="5baa91b1-00000574" lastModified="1537906269">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Expt1b" itemID="5baa91b1-00000574" lastModified="1539117446">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt1b">
       <layers>
@@ -20,22 +20,6 @@
                   </matrix>
                   <transformationPoint>
                     <Point x="63.5" y="25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CombinedFishTanks/CFishtank_heater" name="Svar1b2" centerPoint3DX="76" centerPoint3DY="27.05">
-                  <matrix>
-                    <Matrix a="1.41606140136719" d="1.416015625" tx="76" ty="27"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.05" y="0.05"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Callout1b" name="ScallOut">
-                  <matrix>
-                    <Matrix tx="28.7" ty="1.4"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="135.9" y="42.85"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
                 <DOMShape isDrawingObject="true">
