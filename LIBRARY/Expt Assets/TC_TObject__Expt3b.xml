@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CombinedFishTanks/CFishTank_water" selected="true" centerPoint3DX="147.65" centerPoint3DY="129.55">
+                <DOMSymbolInstance libraryItemName="Assets/CombinedFishTanks/CFishTank_water" centerPoint3DX="147.65" centerPoint3DY="129.55">
                   <matrix>
                     <Matrix a="0.989120483398438" d="0.989105224609375" tx="147.65" ty="129.55"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Highlight" name="Shighlight" selected="true" centerPoint3DX="277.3" centerPoint3DY="263">
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Highlight" name="Shighlight" centerPoint3DX="277.3" centerPoint3DY="263">
                   <matrix>
                     <Matrix tx="213.8" ty="238"/>
                   </matrix>
@@ -22,7 +22,7 @@
                     <Point x="63.5" y="25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Callout3b" selected="true">
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Callout3b">
                   <matrix>
                     <Matrix tx="65.25" ty="209.4"/>
                   </matrix>

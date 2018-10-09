@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Callout" selected="true" centerPoint3DX="139.9" centerPoint3DY="21.45">
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__CalloutShort" selected="true" centerPoint3DX="139.9" centerPoint3DY="21.45">
                   <matrix>
                     <Matrix tx="107.25" ty="5.8"/>
                   </matrix>

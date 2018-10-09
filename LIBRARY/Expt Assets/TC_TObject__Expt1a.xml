@@ -13,7 +13,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Callout1a" name="ScallOut" selected="true">
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Callout1a" name="ScallOut">
                   <matrix>
                     <Matrix tx="27.25" ty="2"/>
                   </matrix>

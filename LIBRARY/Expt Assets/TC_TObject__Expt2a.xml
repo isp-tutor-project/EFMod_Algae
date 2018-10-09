@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Expt2a" itemID="5baa94b7-000005e3" lastModified="1537905847" lastUniqueIdentifier="3">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Expt2a" itemID="5baa94b7-000005e3" lastModified="1538925687" lastUniqueIdentifier="3">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt2a">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CRadio Assets/TC_TObject__CRadio" name="Svar2a" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CRadio Assets/TC_TObject__CRadio" name="Svar2a">
                   <matrix>
                     <Matrix a="0.989120483398438" d="0.989105224609375" tx="135.4" ty="86.75"/>
                   </matrix>
@@ -14,17 +14,9 @@
                     <Point x="-0.2" y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Highlight" name="Shighlight" selected="true">
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Highlight" name="Shighlight">
                   <transformationPoint>
                     <Point x="63.5" y="25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Callout2a" name="ScallOut" selected="true">
-                  <matrix>
-                    <Matrix tx="11.5" ty="4.4"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="87" y="21.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Callout1b" itemID="5baa915c-00000569" lastModified="1537905078">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Callout1b" itemID="5baa915c-00000569" lastModified="1538925708">
   <timeline>
     <DOMTimeline name="TC_TObject__Callout1b">
       <layers>
@@ -14,19 +14,6 @@
                     <Point x="71.2" y="1.55"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText fontRenderingMode="standard" width="123.95" height="44.45" isSelectable="false" lineType="multiline">
-                  <matrix>
-                    <Matrix tx="147.35" ty="2"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>Water Temperature:&#xD;Warmer</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="18.1" size="14" bitmapSize="280" face="PTSans-Bold"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
               </elements>
             </DOMFrame>
           </frames>

@@ -29,8 +29,8 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle0="1" edges="!10974 1768|10974 1756!10974 1756|11023 1757!11023 1757|11023 0!11023 0|1631 0!1631 0|1631 11!1631 11|0 1768"/>
                     <Edge fillStyle0="1" strokeStyle="1" edges="!10717 1768|10974 1768"/>
+                    <Edge fillStyle0="1" edges="!10974 1768|10974 1756!10974 1756|11023 1757!11023 1757|11023 0!11023 0|1631 0!1631 0|1631 11!1631 11|0 1768"/>
                     <Edge fillStyle1="1" strokeStyle="2" edges="!10280 2130|10280 1768"/>
                     <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="!10280 1768|10717 1768"/>
                     <Edge fillStyle1="1" strokeStyle="2" edges="!10717 1768|10717 2123"/>

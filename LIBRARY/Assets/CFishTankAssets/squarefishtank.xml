@@ -47,20 +47,17 @@
                   <edges>
                     <Edge fillStyle1="1" strokeStyle="1" edges="!959 -1120S6|1962 -1800"/>
                     <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!959 932S7|959 1800"/>
-                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!959 932S7|1962 932"/>
                     <Edge fillStyle1="1" strokeStyle="1" edges="!1962 932S6|959 1800"/>
-                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!959 -1120S7|959 932"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!959 932S7|1962 932"/>
                     <Edge fillStyle1="1" strokeStyle="1" edges="!1962 -1800S6|1962 932"/>
-                    <Edge strokeStyle="1" edges="!-801 -1800S4|-801 -1120"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!959 -1120S7|959 932"/>
+                    <Edge strokeStyle="1" edges="!-801 -1800S4|-801 -1120!-1961 -1120|-801 -1800"/>
                     <Edge fillStyle1="2" strokeStyle="1" edges="!-1961 -1120S6|-801 -1120"/>
-                    <Edge strokeStyle="1" edges="!-1961 -1120S4|-801 -1800"/>
-                    <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="!-1961 1763S7|-801 920"/>
-                    <Edge fillStyle1="2" strokeStyle="1" edges="!-1961 1763S6|-1961 -1120"/>
-                    <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="!-801 -1120S7|-801 920"/>
-                    <Edge strokeStyle="1" edges="!-801 -1800S4|1962 -1800"/>
-                    <Edge fillStyle1="2" strokeStyle="1" edges="!959 1800S6|-1961 1763"/>
+                    <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="!-1961 1763S7|-801 920!-801 -1120|-801 920"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!-1961 1763S6|-1961 -1120!-801 -1120|959 -1120"/>
                     <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="!-801 920S7|959 932"/>
-                    <Edge fillStyle1="2" strokeStyle="1" edges="!-801 -1120S6|959 -1120"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!959 1800S6|-1961 1763"/>
+                    <Edge strokeStyle="1" edges="!-801 -1800S4|1962 -1800"/>
                     <Edge cubics="!959 932(;959,932 959,1800 959,1800q959 932 959 1800);"/>
                     <Edge cubics="!959 -1120(;959,-1120 959,932 959,932q959 -1120 959 932);"/>
                     <Edge cubics="!-801 -1120(;-801,-1120 -801,920 -801,920q-801 -1120 -801 920);"/>

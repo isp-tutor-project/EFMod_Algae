@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Callout1a" itemID="5baa9094-0000054f" lastModified="1537904788" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Callout1a" itemID="5baa9094-0000054f" lastModified="1538925701" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TObject__Callout1a">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__CalloutLong" selected="true">
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__CalloutLong">
                   <matrix>
                     <Matrix a="-1" d="-1" tx="142.4" ty="56"/>
                   </matrix>
@@ -14,19 +14,6 @@
                     <Point x="71.2" y="1.55"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText selected="true" fontRenderingMode="standard" width="123.95" height="44.45" isSelectable="false" lineType="multiline">
-                  <matrix>
-                    <Matrix tx="147.35" ty="2"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>Water Temperature:&#xD;Room Temperature</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="18.1" size="14" bitmapSize="280" face="PTSans-Bold"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
               </elements>
             </DOMFrame>
           </frames>
