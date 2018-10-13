@@ -6,12 +6,12 @@
           <DOMFolderItem name="_HTMLControls/TC_THtmlList__Assets" itemID="5b5cea4b-000003ab"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlTable__Assets" itemID="5b5f40d8-000002e3"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlText__Assets" itemID="5b5cd7c7-000002d7"/>
-          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48" isExpanded="true"/>
+          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets/icons" itemID="532c6375-000002d1"/>
-          <DOMFolderItem name="_Tutor Global Scenes" itemID="5b8db2bd-00000610" isExpanded="true"/>
-          <DOMFolderItem name="Assets" itemID="5b8db162-00000599" isExpanded="true"/>
+          <DOMFolderItem name="_Tutor Global Scenes" itemID="5b8db2bd-00000610"/>
+          <DOMFolderItem name="Assets" itemID="5b8db162-00000599"/>
           <DOMFolderItem name="Assets/Calendar Assets" itemID="5a217f61-000004ef"/>
           <DOMFolderItem name="Assets/CBackgroundassets" itemID="5a216052-00000079"/>
           <DOMFolderItem name="Assets/CCarbonMachineAssets" itemID="5a216284-00000093"/>
@@ -19,20 +19,20 @@
           <DOMFolderItem name="Assets/CFishTankAssets/CCarbonMachineAssets" itemID="5abd36db-0000081f"/>
           <DOMFolderItem name="Assets/CFishTankAssets/Waterassets" itemID="5abd37b1-00000962"/>
           <DOMFolderItem name="Assets/CombinedFishTanks" itemID="5abd4276-00000db9"/>
-          <DOMFolderItem name="Assets/CRadio Assets" itemID="5a215e9e-00000052" isExpanded="true"/>
+          <DOMFolderItem name="Assets/CRadio Assets" itemID="5a215e9e-00000052"/>
           <DOMFolderItem name="Assets/CThermometer Assets" itemID="5a21630d-0000009c"/>
-          <DOMFolderItem name="Assets/material assets" itemID="5b956561-0000047d" isExpanded="true"/>
+          <DOMFolderItem name="Assets/material assets" itemID="5b956561-0000047d"/>
           <DOMFolderItem name="Assets/Textassets" itemID="5abd3b87-00000b2b"/>
-          <DOMFolderItem name="Components" itemID="5b92ef3a-0000199c" isExpanded="true"/>
+          <DOMFolderItem name="Components" itemID="5b92ef3a-0000199c"/>
           <DOMFolderItem name="Components/Expt Assets" itemID="5bba2366-00001c0a"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
-          <DOMFolderItem name="Expt Assets" itemID="5baa8a8a-000003d4" isExpanded="true"/>
+          <DOMFolderItem name="Expt Assets" itemID="5baa8a8a-000003d4"/>
           <DOMFolderItem name="Imports" itemID="5b92d00b-00000e58"/>
-          <DOMFolderItem name="Scene Assets" itemID="5ae24ea6-00000248" isExpanded="true"/>
+          <DOMFolderItem name="Scene Assets" itemID="5ae24ea6-00000248"/>
           <DOMFolderItem name="Scene Assets/TC_TScene__SignIn" itemID="5ae3761f-00000407"/>
           <DOMFolderItem name="Scene Assets/TC_TScene__SoundCheck" itemID="5ae37625-00000409"/>
           <DOMFolderItem name="Scene Assets/TC_TScene_HeadPhoneCheck" itemID="5ae37622-00000408"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
      </folders>
      <media>
           <DOMBitmapItem name="Scene Assets/TC_TScene_HeadPhoneCheck/cmulogo.png" itemID="5ae2612c-00000269" sourceLastImported="1316734659" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Scene Assets/TC_TScene_HeadPhoneCheck/cmulogo.png" bitmapDataHRef="M 3 1536012990.dat" frameRight="6940" frameBottom="800"/>
