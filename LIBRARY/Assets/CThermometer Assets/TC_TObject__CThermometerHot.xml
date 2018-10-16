@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="TC_TObject__HeaterWater">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__HeaterWater">
                   <matrix>
                     <Matrix a="0.80194091796875" d="0.762008666992188" tx="40.1" ty="-56.15"/>
                   </matrix>

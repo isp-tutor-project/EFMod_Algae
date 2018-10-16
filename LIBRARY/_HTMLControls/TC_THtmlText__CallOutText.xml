@@ -11,7 +11,7 @@
                     <Point x="50" y="50"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="TC_TObject__ArrowHead">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__ArrowHead">
                   <matrix>
                     <Matrix tx="106.2" ty="19.35"/>
                   </matrix>

@@ -23,7 +23,7 @@
           <DOMFolderItem name="Assets/CThermometer Assets" itemID="5a21630d-0000009c"/>
           <DOMFolderItem name="Assets/material assets" itemID="5b956561-0000047d"/>
           <DOMFolderItem name="Assets/Textassets" itemID="5abd3b87-00000b2b"/>
-          <DOMFolderItem name="Components" itemID="5b92ef3a-0000199c"/>
+          <DOMFolderItem name="Components" itemID="5b92ef3a-0000199c" isExpanded="true"/>
           <DOMFolderItem name="Components/Expt Assets" itemID="5bba2366-00001c0a"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Expt Assets" itemID="5baa8a8a-000003d4"/>
@@ -32,7 +32,7 @@
           <DOMFolderItem name="Scene Assets/TC_TScene__SignIn" itemID="5ae3761f-00000407"/>
           <DOMFolderItem name="Scene Assets/TC_TScene__SoundCheck" itemID="5ae37625-00000409"/>
           <DOMFolderItem name="Scene Assets/TC_TScene_HeadPhoneCheck" itemID="5ae37622-00000408"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
      <media>
           <DOMBitmapItem name="Scene Assets/TC_TScene_HeadPhoneCheck/cmulogo.png" itemID="5ae2612c-00000269" sourceLastImported="1316734659" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Scene Assets/TC_TScene_HeadPhoneCheck/cmulogo.png" bitmapDataHRef="M 3 1536012990.dat" frameRight="6940" frameBottom="800"/>
@@ -150,7 +150,10 @@
           <Include href="Assets/material assets/TC_TMaterialIcon__tank.xml" loadImmediate="false" itemID="5b9563dd-00000465" lastModified="1537045777"/>
           <Include href="Assets/material assets/TC_TMaterialIcon__thermometer.xml" loadImmediate="false" itemID="5b9563d1-0000045d" lastModified="1537045780"/>
           <Include href="Assets/TC_TObject__Arrow.xml" loadImmediate="false" itemID="5b9d752e-000020db" lastModified="1537045806"/>
+          <Include href="Assets/TC_TObject__ArrowHead.xml" loadImmediate="false" itemID="5bb9152b-00001b54" lastModified="1538856261"/>
+          <Include href="Assets/TC_TObject__HeaterWater.xml" loadImmediate="false" itemID="5bbd0fd0-000043d5" lastModified="1539117008"/>
           <Include href="Assets/TC_TObject__Shade.xml" loadImmediate="false" itemID="5ba16755-00001cb8" lastModified="1537304405"/>
+          <Include href="Assets/TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba437d-00002303" lastModified="1538933629"/>
           <Include href="Assets/Textassets/line.xml" loadImmediate="false" itemID="5afede06-00000318" lastModified="1526652881"/>
           <Include href="Components/Expt Assets/TC_TObject__CallOutHighlight.xml" loadImmediate="false" itemID="5bba22b3-00001c05" lastModified="1538925235"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b955a31-00000430" lastModified="1538926492"/>
@@ -196,9 +199,6 @@
           <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b956a0d-000004a4" lastModified="1537125351"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b955837-0000035d" lastModified="1536939894"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536939917"/>
-          <Include href="TC_TObject__ArrowHead.xml" loadImmediate="false" itemID="5bb9152b-00001b54" lastModified="1538856261"/>
-          <Include href="TC_TObject__HeaterWater.xml" loadImmediate="false" itemID="5bbd0fd0-000043d5" lastModified="1539117008"/>
-          <Include href="TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba437d-00002303" lastModified="1538933629"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1" currentFrame="1">
