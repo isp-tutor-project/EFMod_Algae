@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__CallOutHighlight" itemID="5bba22b3-00001c05" lastModified="1538925235">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__CallOutHighlight" itemID="5bba22b3-00001c05" lastModified="1540326633">
   <timeline>
     <DOMTimeline name="TC_TObject__CallOutHighlight">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMRectangleObject objectWidth="210" objectHeight="100" x="-49.2" y="64" lockFlag="true" topLeftRadius="15" topRightRadius="15" bottomLeftRadius="15" bottomRightRadius="15">
+                <DOMRectangleObject objectWidth="240" objectHeight="100" x="-49.2" y="64" lockFlag="true" topLeftRadius="15" topRightRadius="15" bottomLeftRadius="15" bottomRightRadius="15">
                   <matrix>
                     <Matrix tx="49.2" ty="-64"/>
                   </matrix>

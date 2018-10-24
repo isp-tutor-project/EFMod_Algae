@@ -58,7 +58,7 @@
           <Include href="_HTMLControls/TC_THtmlTable__Assets/tablearea.xml" loadImmediate="false" itemID="5b5f40c1-000002dc" lastModified="1533050778"/>
           <Include href="_HTMLControls/TC_THtmlTable__Table1.xml" loadImmediate="false" itemID="5b5f91bf-00000347" lastModified="1534019420"/>
           <Include href="_HTMLControls/TC_THtmlText__Assets/TextArea.xml" loadImmediate="false" itemID="5b59ef22-00000313" lastModified="1533575923"/>
-          <Include href="_HTMLControls/TC_THtmlText__CallOutText.xml" loadImmediate="false" itemID="5bb8f667-00001782" lastModified="1538856249"/>
+          <Include href="_HTMLControls/TC_THtmlText__CallOutText.xml" loadImmediate="false" itemID="5bb8f667-00001782" lastModified="1540326429"/>
           <Include href="_HTMLControls/TC_THtmlText__Text1.xml" loadImmediate="false" itemID="5b5f91c5-00000348" lastModified="1533575928"/>
           <Include href="_Tutor Global Assets_/NavPanel Components/contentFrame.xml" loadImmediate="false" itemID="5b8db279-000005f6" lastModified="1536012921"/>
           <Include href="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets/icons/SpinFocusOutline.xml" loadImmediate="false" itemID="5345b97d-00001a70" lastModified="1397078414"/>
@@ -155,11 +155,11 @@
           <Include href="Assets/TC_TObject__Shade.xml" loadImmediate="false" itemID="5ba16755-00001cb8" lastModified="1537304405"/>
           <Include href="Assets/TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba437d-00002303" lastModified="1538933629"/>
           <Include href="Assets/Textassets/line.xml" loadImmediate="false" itemID="5afede06-00000318" lastModified="1526652881"/>
-          <Include href="Components/Expt Assets/TC_TObject__CallOutHighlight.xml" loadImmediate="false" itemID="5bba22b3-00001c05" lastModified="1538925235"/>
+          <Include href="Components/Expt Assets/TC_TObject__CallOutHighlight.xml" loadImmediate="false" itemID="5bba22b3-00001c05" lastModified="1540326633"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b955a31-00000430" lastModified="1538926492"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b955a3c-00000432" lastModified="1537036403"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b955a36-00000431" lastModified="1539117262"/>
-          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb9080-00002ebb" lastModified="1539117810"/>
+          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb9080-00002ebb" lastModified="1540326660"/>
           <Include href="Exports/TL_Algae__Movie.xml" loadImmediate="false" itemID="5b955a58-00000433" lastModified="1536514648"/>
           <Include href="Exports/TL_Algae__RQintro1.xml" loadImmediate="false" itemID="5b9569ac-00000484" lastModified="1536518607"/>
           <Include href="Exports/TL_Algae__RQintro2.xml" loadImmediate="false" itemID="5b9569d9-0000048a" lastModified="1536518617"/>
